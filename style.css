@@ -1,0 +1,168 @@
+section{
+    padding-bottom: 40px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.container1{
+    display: flex;
+    align-items: center;
+    padding:5%;
+    padding-top: 60px;  
+}
+#imgpadding{
+    padding-left: 5%;
+}
+.container2{
+    display: flex;
+    padding-top:50px; 
+}
+.extracontainer{
+    padding:5%
+}
+h3{
+    text-align: center;
+}
+
+.half-width{
+    width: 50%; 
+    padding-left: 5%;  
+}
+
+.half-width img{
+    width:60%;
+}
+
+.part1{
+    padding-left: 5%;
+    width: 50%;
+    text-align: justify;
+}
+
+.try{
+    padding-top: 7%;
+    padding-left: 5%;
+    margin-right: 7%;
+}
+
+.try2{
+    padding-top: 7%;
+    
+}
+.part2{
+    padding-left:5%;
+    width: 70%;
+    text-align: justify;
+}
+
+.upperleft{
+
+    line-height: 40px;
+    border-left: 5px solid;
+    border-color: rgb(243, 89, 110);
+    border-image-slice: 1;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: 50px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+h2{
+    font-size: 40px;
+    padding: 0px;
+    margin: 0px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+ul{
+    font-weight: 700;
+}
+
+.padding1{
+    padding-bottom: 20px;
+}
+.padding2{
+    padding-top: 20px;
+}
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(206, 90, 181),magenta);
+    padding: 10px 40px;
+    color:white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.frontcolor{
+    color: rgb(206, 90, 181);
+}
+
+#sec2-h1{
+    text-align: center;
+}
+
+.ex{
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 20px;
+    padding: 30px;
+    text-align :justify;
+}
+.sec2img{
+    height: 100px;
+    margin-left: 70px;
+    margin-top: 60px;
+    padding-left: 10px;
+}
+#ex1{
+ 
+    background-color: rgba(242, 247, 185, 0.774);
+}
+#ex2{
+    background-color: rgba(169, 229, 240, 0.445);
+}
+#ex3{
+    background-color: rgba(243, 184, 238, 0.575);
+}
+
+#motive1{
+    background-image: url(image/Motivation.png);
+    background-size: 100%;
+    box-shadow: 10px 10px 30px rgb(250, 223, 228);
+    background-repeat: no-repeat;
+}
+
+#motive2{
+    background-image: url(image/box.png); 
+    text-align: justify;
+    background: size 100%;
+    font-size: 32px;
+    background-repeat: no-repeat;
+    box-shadow: 10px 10px 30px rgb(250, 223, 228);  
+}
+
+#motive3{
+    background-image: url(image/CODER.png);
+    background-size: 100%;
+    box-shadow: 10px 10px 30px rgb(250, 223, 228);
+    background-repeat: no-repeat;
+}
+
+footer{
+    padding-top: 40px;
+}
+.footeritem{
+    padding: 3%;
+    background-color: rgb(24, 22, 22);
+    color: aliceblue;
+    text-align: center;
+}
